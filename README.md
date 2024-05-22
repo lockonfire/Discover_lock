@@ -32,10 +32,13 @@ github_page
 - 工業高校 (1995年卒)
   - 電子機械科
 
+## 資格
+- 介護福祉士
+
 ## スキル
 - プログラミング言語: Python, Java, JavaScript
 - 開発環境: Flutter,Vscode,AndroidStudio
-- その他: GitHub
+- その他: Git
 
 ## 言語
 - 日本語
